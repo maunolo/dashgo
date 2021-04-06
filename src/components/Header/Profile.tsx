@@ -1,4 +1,4 @@
-import { Avatar, Box, Flex, Text } from "@chakra-ui/react";
+import { Avatar, Box, Flex, Text } from '@chakra-ui/react'
 
 export function Profile() {
   return (
@@ -9,7 +9,7 @@ export function Profile() {
           mauricio.dev@gmail.com
         </Text>
       </Box>
-      <Avatar size="md" name="Maunolo" src="https://github.com/maunolo.png"/>
+      <Avatar size="md" name="Maunolo" src="https://github.com/maunolo.png" />
     </Flex>
   )
 }
